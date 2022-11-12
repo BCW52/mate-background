@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+	<wallpaper deleted="false">
+		<name>No Desktop Background</name>
+		<filename>(none)</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#27587E</pcolor>
+		<scolor>#627F5A</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Astronaut</name>
+		<filename>@datadir@/backgrounds/mate/desktop/Astronaut.jpg</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Water-Lilly</name>
+		<filename>@datadir@/backgrounds/mate/desktop/Water-lilly.jpg</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Forest-Moss.jpg</name>
+		<filename>@datadir@/backgrounds/mate/desktop/forest-moss.jpg</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>MATE-Stripes-Dark</name>
+		<filename>@datadir@/backgrounds/mate/desktop/MATE-Stripes-Dark.png</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Forest-River-Misty</name>
+		<filename>@datadir@/backgrounds/mate/desktop/forest-river-misty.jpg</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Astronaut.jpg</name>
+		<filename>@datadir@/backgrounds/mate/desktop/Astronaut.jpg</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Gentoo</name>
+		<filename>@datadir@/backgrounds/mate/desktop/gentoo.png</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Holy-Arch</name>
+		<filename>@datadir@/backgrounds/mate/desktop/holy-arch.png</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Bamboo</name>
+		<filename>@datadir@/backgrounds/mate/desktop/bamboo.jpg</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Linux-Kernel-Realistic</name>
+		<filename>@datadir@/backgrounds/mate/desktop/linux-kernel-realistic</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Minimal</name>
+		<filename>@datadir@/backgrounds/mate/desktop/Minimal.png</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Minimal_Squares</name>
+		<filename>@datadir@/backgrounds/mate/desktop/minimal_squares.png</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Solarized-Dark-Sudo</name>
+		<filename>@datadir@/backgrounds/mate/desktop/solarized-dark-sudo.jpg</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Solarized-Dragon-Kali</name>
+		<filename>@datadir@/backgrounds/mate/desktop/solarized-dragon-kali.png</filename>
+		<options>zoom</options>
+		<artist>Unknown</artist>
+	</wallpaper>
+</wallpapers>
