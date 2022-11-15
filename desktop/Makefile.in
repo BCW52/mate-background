@@ -271,15 +271,19 @@ top_builddir = @top_builddir@
 top_srcdir = @top_srcdir@
 backgrounddir = $(datadir)/backgrounds/mate/desktop
 background_DATA = \
-	Float-into-MATE.png \
-	GreenTraditional.jpg \
-	Stripes.png \
+	Astronaut.jpg \
+	Water-lilly.jpg \
+	forest-moss.jpg \
 	MATE-Stripes-Dark.png \
-	MATE-Stripes-Light.png \
-	Ubuntu-Mate-Cold-no-logo.png \
-	Ubuntu-Mate-Dark-no-logo.png \
-	Ubuntu-Mate-Radioactive-no-logo.png \
-	Ubuntu-Mate-Warm-no-logo.png
+	forest-river-misty.jpg \
+	gentoo.png \
+	holy-arch.png \
+	bamboo.jpg \
+	linux-kernel-realistic.jpg \
+	Minimal.png \
+	minimal_squares.png \
+	solarized-dark-sudo.jpg \
+	solarized-dragon-kali.png
 
 metadata_in_files = mate-desktop.xml.in
 metadatadir = $(datadir)/mate-background-properties
